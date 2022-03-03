@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Nilai MC Appointment</string>
+    <string name="about">About us</string>
+    <string name="appo">Book an Appointment</string>
+    <string name="txtWel">Welcome to use this app to make an appointment in Nilai Medical Center!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="NilaiMCintrro">Nilai Medical Centre (Nilai Medical) was first established in 1999 as a clinical research centre. In 2005, it was bought over by the TH Group and renamed NCI Cancer Hospital, making it the pioneer private specialist centre in Malaysia focusing on two core activities: Cancer Treatment and Clinical Research. \n\n It was renamed Nilai Medical in 2012, in line with its expansion as a full-fledged multi-disciplinary medical hospital to cater to the healthcare needs of the community it serves.  Today, its medical focus areas include Cardiology, Dermatology, Ophthalmology, Orthopaedic, Obstetrics and Gynaecology, Paediatric, ENT, Interventional Radiology, General Surgery/Advanced Laparoscopy, Physiotherapy, Psychiatry and more. \n\n The team at Nilai Medical is committed to building a healthy society through its medical expertise, nursing excellence and customer-centric care. The aim is to create a warm, personal and caring environment to ensure the best possible care management for the patients and their respective families and caretakers.</string>
+    <string name="btnWeb">Official Website</string>
+    <string name="btnMap">Find on map</string>
+    <string name="imgDescMClog">Just a logo</string>
+    <string name="vname">Name</string>
+    <string name="vgender">Gender</string>
+    <string name="bmale">Male</string>
+    <string name="bfemale">Female</string>
+    <string name="vage">Age</string>
+    <string name="vic_passport_no">IC/Passport NO.</string>
+    <string name="vappointment_date">Appointment Date</string>
+    <string name="vdepartment">Department</string>
+    <string name="vappointment_time">Appointment Time</string>
+    <string name="bconfirm">Confirm</string>
+    <string name="tip_appo">We recommend that you arrive half an hour before the scheduled time. In addition, after 15 minutes after the scheduled time, your appointment will be expired.</string>
+    <string name="vTitle">Appointment detail</string>
+    <string name="tips_res">Your appointment code is shown below, please show the code to the front desk when you arrive at the Nilai MC</string>
+</resources>
